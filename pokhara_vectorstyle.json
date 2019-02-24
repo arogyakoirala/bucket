@@ -13,10 +13,6 @@
     "see02yyfb": {
       "type": "vector",
       "url": "https://maps.mobera.tech/pokhara.json"
-    },
-    "openmaptiles": {
-      "type": "vector",
-      "url": "https://maps.tilehosting.com/data/v3.json?key={key}"
     }
   },
   "sprite": "https://openmaptiles.github.io/klokantech-basic-gl-style/sprite",
@@ -43,19 +39,7 @@
       "source": "see02yyfb",
       "source-layer": "building",
       "layout": {"visibility": "visible"},
-      "paint": {"line-color": "rgba(21, 31, 134, 1)"}
-    },
-    {
-      "id": "omp",
-      "type": "line",
-      "source": "openmaptiles",
-      "source-layer": "boundary"
-    },
-    {
-      "id": "omp2",
-      "type": "symbol",
-      "source": "openmaptiles",
-      "source-layer": "poi"
+      "paint": {"line-color": "rgba(113, 121, 192, 1)"}
     }
   ],
   "id": "klokantech-basic"
