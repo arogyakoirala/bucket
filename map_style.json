@@ -1,0 +1,46 @@
+{
+  "version": 8,
+  "name": "Klokantech Basic",
+  "metadata": {
+    "mapbox:autocomposite": false,
+    "mapbox:type": "template",
+    "maputnik:renderer": "mbgljs",
+    "openmaptiles:version": "3.x",
+    "openmaptiles:mapbox:owner": "openmaptiles",
+    "openmaptiles:mapbox:source:url": "mapbox://openmaptiles.4qljc88t"
+  },
+  "sources": {
+    "see02yyfb": {
+      "type": "vector",
+      "url": "https://maps.mobera.tech/pokhara.json"
+    }
+  },
+  "sprite": "https://openmaptiles.github.io/klokantech-basic-gl-style/sprite",
+  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}",
+  "layers": [
+    {
+      "id": "test",
+      "type": "fill",
+      "source": "see02yyfb",
+      "source-layer": "water",
+      "layout": {"visibility": "visible"},
+      "paint": {"fill-color": "rgba(8, 3, 3, 1)"}
+    },
+    {
+      "id": "test2",
+      "type": "fill",
+      "source": "see02yyfb",
+      "source-layer": "landuse",
+      "paint": {"fill-color": "rgba(249, 8, 8, 1)"}
+    },
+    {
+      "id": "building",
+      "type": "line",
+      "source": "see02yyfb",
+      "source-layer": "building",
+      "layout": {"visibility": "visible"},
+      "paint": {"line-color": "rgba(113, 121, 192, 1)"}
+    }
+  ],
+  "id": "klokantech-basic"
+}
