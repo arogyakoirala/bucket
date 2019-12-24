@@ -1,0 +1,2095 @@
+ {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6302",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6302"
+              },
+              {
+                "label": "latitude",
+                "value": 22.7091495
+              },
+              {
+                "label": "longitude",
+                "value": 75.83064786
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "District Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "जिला अस्पताल"
+              },
+              {
+                "label": "address",
+                "value": "Dhar Road, Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 180
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "070"
+              },
+              {
+                "label": "ward_name",
+                "value": "LOKNAYAK NAGAR"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.83064786,
+              22.7091495
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6307",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6307"
+              },
+              {
+                "label": "latitude",
+                "value": 22.70896595
+              },
+              {
+                "label": "longitude",
+                "value": 75.87877518
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "secondary"
+              },
+              {
+                "label": "name",
+                "value": "Government PC Sethi Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "गवर्नमेंट पी सी सेठी हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "Gpo Chauraha , Saiyogitaganj , A B Road"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312705503
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 105
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87877518,
+              22.70896595
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630c",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630c"
+              },
+              {
+                "label": "latitude",
+                "value": 22.73839
+              },
+              {
+                "label": "longitude",
+                "value": 75.790225
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "tertiary"
+              },
+              {
+                "label": "name",
+                "value": "Modern Dental College And Research Center"
+              },
+              {
+                "label": "name_hindi",
+                "value": "मॉडर्न डेंटल कॉलेज एंड रिसर्च सेंटर"
+              },
+              {
+                "label": "address",
+                "value": "Behind Sunshine Public School, Gandhi Nagar, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312882693
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Sa09:00-16:00"
+              },
+              {
+                "label": "personnel_count",
+                "value": 45
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.790225,
+              22.73839
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6300",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6300"
+              },
+              {
+                "label": "latitude",
+                "value": 22.73090733
+              },
+              {
+                "label": "longitude",
+                "value": 75.85058255
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Al Shifa National Hospital and Research Centre"
+              },
+              {
+                "label": "name_hindi",
+                "value": "अल शिफा नेशनल हॉस्पिटल एंड रिसर्च सेंटर"
+              },
+              {
+                "label": "address",
+                "value": "40 Sadar Bazar Main Road, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 731245010
+              },
+              {
+                "label": "personnel_count",
+                "value": 20
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "058"
+              },
+              {
+                "label": "ward_name",
+                "value": "IMLI BAZAR"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.85058255,
+              22.73090733
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6305",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6305"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71181667
+              },
+              {
+                "label": "longitude",
+                "value": 75.88107667
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "tertiary"
+              },
+              {
+                "label": "name",
+                "value": "Government Autonomous College Of Dentistry And Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "गवर्नमेंट ऑटोनोमस कॉलेज ओफ ङेंटिस्ट्री"
+              },
+              {
+                "label": "address",
+                "value": "M G Road, Opp. M.Y. Sardar Patel Marg, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312701808
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Sa 08:30-15:30"
+              },
+              {
+                "label": "personnel_count",
+                "value": 125
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.88107667,
+              22.71181667
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630a",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630a"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71388538
+              },
+              {
+                "label": "longitude",
+                "value": 75.87868871
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "M Y Cancer Hospital"
+              },
+              {
+                "label": "address",
+                "value": "A.B Road, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312524466
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 500
+              },
+              {
+                "label": "operator",
+                "value": "Govt of India"
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87868871,
+              22.71388538
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630f",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630f"
+              },
+              {
+                "label": "latitude",
+                "value": 22.70857955
+              },
+              {
+                "label": "longitude",
+                "value": 75.87876331
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "P. C. Sethi Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "पी.सी. सेठी चिकित्सालय"
+              },
+              {
+                "label": "address",
+                "value": "A B Road, G P O Choraha, Sanyogita Ganj, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312705503
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 35
+              },
+              {
+                "label": "operator",
+                "value": "State Goverment"
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day others"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87876331,
+              22.70857955
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6314",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6314"
+              },
+              {
+                "label": "latitude",
+                "value": 22.74439556
+              },
+              {
+                "label": "longitude",
+                "value": 75.87793956
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Swasth Kendra And Prastuti Grah"
+              },
+              {
+                "label": "address",
+                "value": "Gali No -7, 26 No Road, Nanda Nagar, Indore"
+              },
+              {
+                "label": "mobile",
+                "value": 9009924995
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 20
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "025"
+              },
+              {
+                "label": "ward_name",
+                "value": "NANDA NAGAR"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87793956,
+              22.74439556
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6301",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6301"
+              },
+              {
+                "label": "latitude",
+                "value": 22.75431104
+              },
+              {
+                "label": "longitude",
+                "value": 75.90367822
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "tertiary"
+              },
+              {
+                "label": "name",
+                "value": "Bombay Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "बॉम्बे हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "Scheme No. 94/95, Eastern Ring Road, Tulsi Nagar, Vijyanagar, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312558866
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 350
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "031"
+              },
+              {
+                "label": "ward_name",
+                "value": "MAHARAJA CHATRASAL"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.90367822,
+              22.75431104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6306",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6306"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71563012
+              },
+              {
+                "label": "longitude",
+                "value": 75.88116484
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "tertiary"
+              },
+              {
+                "label": "name",
+                "value": "Government Nursing College"
+              },
+              {
+                "label": "address",
+                "value": "Hospital Building, C R P Lines,Behind Chacha Nehru Hospital, South Tukoganj, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312528650
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Fr8: 30-2: 30"
+              },
+              {
+                "label": "personnel_count",
+                "value": 40
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.88116484,
+              22.71563012
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630b",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630b"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71358661
+              },
+              {
+                "label": "longitude",
+                "value": 75.87953788
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "M Y Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": " एम वाय हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "A B Road, Indore"
+              },
+              {
+                "label": "mobile",
+                "value": 7869579103
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 500
+              },
+              {
+                "label": "operator",
+                "value": "Govt Of India"
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87953788,
+              22.71358661
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6310",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6310"
+              },
+              {
+                "label": "latitude",
+                "value": 22.7168825
+              },
+              {
+                "label": "longitude",
+                "value": 75.86992129
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Railway Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "रेलवे हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "Railway Station Road, Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Sa 10:00-18:00"
+              },
+              {
+                "label": "personnel_count",
+                "value": 5
+              },
+              {
+                "label": "operator",
+                "value": "Railway"
+              },
+              {
+                "label": "facilities",
+                "value": "opd"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.86992129,
+              22.7168825
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb62ff",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb62ff"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71376661
+              },
+              {
+                "label": "longitude",
+                "value": 75.87900936
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "secondary"
+              },
+              {
+                "label": "name",
+                "value": "Accident And Emergency Centre"
+              },
+              {
+                "label": "address",
+                "value": "M Y Hospital A B Road Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 200
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87900936,
+              22.71376661
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6304",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6304"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71818754
+              },
+              {
+                "label": "longitude",
+                "value": 75.88755527
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Geeta Bhawan Hospital"
+              },
+              {
+                "label": "address",
+                "value": "No. 13C, Geeta Bhawan Main Road, Near Geeta Bhawan Mandir, Kailash Park, Manoramaganj, Indore,"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7314003315
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 130
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "048"
+              },
+              {
+                "label": "ward_name",
+                "value": "GITA BHAVAN"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.88755527,
+              22.71818754
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6309",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6309"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71350908
+              },
+              {
+                "label": "longitude",
+                "value": 75.87849268
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Late Shri Rajendra Darkar OPD"
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Sa 08:00-14:00"
+              },
+              {
+                "label": "personnel_count",
+                "value": 500
+              },
+              {
+                "label": "operator",
+                "value": "Government of India"
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87849268,
+              22.71350908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630e",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630e"
+              },
+              {
+                "label": "latitude",
+                "value": 22.74811677
+              },
+              {
+                "label": "longitude",
+                "value": 75.87806269
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Nanda Nagar Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "नन्दा नगर हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "Nanda Nagar 3, Bima Manjila Hospital, Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312550485
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 42
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs fixed_day delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "027"
+              },
+              {
+                "label": "ward_name",
+                "value": "PASHUPATI NATH"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87806269,
+              22.74811677
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6313",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6313"
+              },
+              {
+                "label": "latitude",
+                "value": 22.74426534
+              },
+              {
+                "label": "longitude",
+                "value": 75.84751591
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Shehri Samudaik Swasth Kendra"
+              },
+              {
+                "label": "address",
+                "value": "Bandganga, Indore"
+              },
+              {
+                "label": "mobile",
+                "value": 9826417460
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 15
+              },
+              {
+                "label": "facilities",
+                "value": "opd ipd radiology_labs pathology_labs delivery"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "yes"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "yes"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "yes"
+              },
+              {
+                "label": "ward_no",
+                "value": "012"
+              },
+              {
+                "label": "ward_name",
+                "value": "GOVIND COLONY"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.84751591,
+              22.74426534
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6311",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6311"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71673908
+              },
+              {
+                "label": "longitude",
+                "value": 75.87000934
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Railway Hospital Indore"
+              },
+              {
+                "label": "address",
+                "value": "Near Railway Station, Chhoti Gwaltoli, Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 5
+              },
+              {
+                "label": "operator",
+                "value": "Indian Railway"
+              },
+              {
+                "label": "facilities",
+                "value": "opd fixed_day"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "yes"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "055"
+              },
+              {
+                "label": "ward_name",
+                "value": "SAUTH TUKOGANJ"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87000934,
+              22.71673908
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6303",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6303"
+              },
+              {
+                "label": "latitude",
+                "value": 22.74827618
+              },
+              {
+                "label": "longitude",
+                "value": 75.87845022
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "secondary"
+              },
+              {
+                "label": "name",
+                "value": "E.S.I.C. Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "ईएसआईसी हॉस्पिटल"
+              },
+              {
+                "label": "address",
+                "value": "1378/11,Iti College Main Road,Nanda Nagar,Indore"
+              },
+              {
+                "label": "phonenumber",
+                "value": 7312556153
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 450
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "027"
+              },
+              {
+                "label": "ward_name",
+                "value": "PASHUPATI NATH"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.87845022,
+              22.74827618
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6308",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6308"
+              },
+              {
+                "label": "latitude",
+                "value": 22.729715
+              },
+              {
+                "label": "longitude",
+                "value": 75.81170833
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "primary"
+              },
+              {
+                "label": "name",
+                "value": "Government Urban Primary Health Center"
+              },
+              {
+                "label": "name_hindi",
+                "value": "शासकीय शाहरी प्राथमिक स्वास्थ्य केंद्र"
+              },
+              {
+                "label": "address",
+                "value": "15/1 Babumurai Colony, Airport Road,Indore"
+              },
+              {
+                "label": "mobile",
+                "value": 7897001979
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Sa12:00-20:00"
+              },
+              {
+                "label": "personnel_count",
+                "value": 3
+              },
+              {
+                "label": "facilities",
+                "value": "opd"
+              },
+              {
+                "label": "opd",
+                "value": "yes"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "015"
+              },
+              {
+                "label": "ward_name",
+                "value": "BIJASAN"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.81170833,
+              22.729715
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb630d",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb630d"
+              },
+              {
+                "label": "latitude",
+                "value": 22.71806356
+              },
+              {
+                "label": "longitude",
+                "value": 75.86534251
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "secondary"
+              },
+              {
+                "label": "name",
+                "value": "MTH Women's Hospital"
+              },
+              {
+                "label": "name_hindi",
+                "value": "Mth महिला अस्पताल"
+              },
+              {
+                "label": "address",
+                "value": "MTH Compound, Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "Mo-Su 09:00-13:30"
+              },
+              {
+                "label": "personnel_count",
+                "value": 100
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "057"
+              },
+              {
+                "label": "ward_name",
+                "value": "DEVI AHILYABAI"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.86534251,
+              22.71806356
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "5de4cd549af0322cb3fb6312",
+          "properties": {
+            "tags": [
+              {
+                "label": "id",
+                "value": "5de4cd549af0322cb3fb6312"
+              },
+              {
+                "label": "latitude",
+                "value": 22.72306951
+              },
+              {
+                "label": "longitude",
+                "value": 75.85605324
+              },
+              {
+                "label": "amenity",
+                "value": "hospital"
+              },
+              {
+                "label": "operator_type",
+                "value": "public"
+              },
+              {
+                "label": "type",
+                "value": "secondary"
+              },
+              {
+                "label": "name",
+                "value": "Rajshree Nursing Home"
+              },
+              {
+                "label": "name_hindi",
+                "value": "राजश्री नर्सिंग होम"
+              },
+              {
+                "label": "address",
+                "value": "Shop No 5, Katariya Complex, Near Metro Wholesale, Dewas Naka, Indore"
+              },
+              {
+                "label": "opening_hours",
+                "value": "24/7"
+              },
+              {
+                "label": "personnel_count",
+                "value": 35
+              },
+              {
+                "label": "opd",
+                "value": "no"
+              },
+              {
+                "label": "ipd",
+                "value": "no"
+              },
+              {
+                "label": "radiology_labs",
+                "value": "no"
+              },
+              {
+                "label": "pathology_labs",
+                "value": "no"
+              },
+              {
+                "label": "fixedDay",
+                "value": "no"
+              },
+              {
+                "label": "deliverySevice",
+                "value": "no"
+              },
+              {
+                "label": "ward_no",
+                "value": "057"
+              },
+              {
+                "label": "ward_name",
+                "value": "DEVI AHILYABAI"
+              }
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              75.85605324,
+              22.72306951
+            ]
+          }
+        }
+      ]
+    }
